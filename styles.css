@@ -1,0 +1,50 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paragraph {
+  font-family: 'Georgia', serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: #2c3e50;
+  text-align: center;
+  margin: 40px 0 20px;
+  line-height: 1.2;
+  position: relative;
+}
+
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;   
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  cursor: pointer;
+  border-radius: 16px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  gap: 10px;
+}
+
+.project:hover {
+  transform: translateY(-4px);
+}
