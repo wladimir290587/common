@@ -4,7 +4,7 @@ export const dataSections = [
         projects: [
             {
                 name: "Тест на знание HTML тегов",
-                href: "https://wladimir290587.github.io/tag-knowledge-test/"
+                href: "https://wladimir290587.github.io/tag-knowledge-test/" 
             },
             {
                 name: "Проект 2",
