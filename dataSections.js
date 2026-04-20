@@ -1,5 +1,14 @@
 export const dataSections = [
     {
+        paragraph: "Проекты (JS, ООП)",
+        projects: [
+            {
+                name: "Стикеры (создать - двойной клик, удалить - нажать на колёсико)",
+                href: "https://wladimir290587.github.io/stickers/"
+            },
+        ]
+    },
+    {
         paragraph: "Проекты (HTML, CSS, JS, модули)",
         projects: [
             {
@@ -12,21 +21,5 @@ export const dataSections = [
             },
         ]
     },
-        {
-        paragraph: "Простые проекты",
-        projects: [
-            {
-                name: "Проект 4",
-                href: "https://wladimir290587.github.io/project/"
-            },
-            {
-                name: "Проект 5",
-                href: "https://wladimir290587.github.io/project/"
-            },
-            {
-                name: "Проект 6",
-                href: "https://wladimir290587.github.io/project/"
-            },
-        ]
-    },
+
 ];
