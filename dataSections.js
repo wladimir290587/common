@@ -1,18 +1,14 @@
 export const dataSections = [
     {
-        paragraph: "Сложные проекты",
+        paragraph: "Проекты (HTML, CSS, JS, модули)",
         projects: [
             {
                 name: "Тест на знание HTML тегов",
-                href: "https://wladimir290587.github.io/tag-knowledge-test/" 
+                href: "https://wladimir290587.github.io/tag-knowledge-test/"
             },
             {
-                name: "Проект 2",
-                href: "https://wladimir290587.github.io/project/"
-            },
-            {
-                name: "Проект 3",
-                href: "https://wladimir290587.github.io/project/"
+                name: "Гид по городам России",
+                href: "https://wladimir290587.github.io/cities-russian/"
             },
         ]
     },
