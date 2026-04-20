@@ -3,8 +3,8 @@ export const dataSections = [
         paragraph: "Сложные проекты",
         projects: [
             {
-                name: "Проект 1",
-                href: "https://wladimir290587.github.io/project/"
+                name: "Тест на знание HTML тегов",
+                href: "https://wladimir290587.github.io/tag-knowledge-test/"
             },
             {
                 name: "Проект 2",
@@ -20,15 +20,15 @@ export const dataSections = [
         paragraph: "Простые проекты",
         projects: [
             {
-                name: "Проект 1",
+                name: "Проект 4",
                 href: "https://wladimir290587.github.io/project/"
             },
             {
-                name: "Проект 2",
+                name: "Проект 5",
                 href: "https://wladimir290587.github.io/project/"
             },
             {
-                name: "Проект 3",
+                name: "Проект 6",
                 href: "https://wladimir290587.github.io/project/"
             },
         ]
