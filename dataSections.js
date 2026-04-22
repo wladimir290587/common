@@ -1,13 +1,22 @@
 export const dataSections = [
     {
-        paragraph: "Проекты (JS, ООП)",
+        paragraph: "Проекты (JS, ООП, сборка WebPack, сборка Vite)",
         projects: [
             {
                 name: "Стикеры (создать - двойной клик, удалить - нажать на колёсико)",
                 href: "https://wladimir290587.github.io/stickers/"
             },
+                   {
+                name: "Стикеры (сборка WebPack)",
+                href: "https://wladimir290587.github.io/stickers-webPack/"
+            },
+                   {
+                name: "Стикеры (сборка Vite)",
+                href: "https://wladimir290587.github.io/stickers-vite/"
+            },
         ]
     },
+
     {
         paragraph: "Проекты (HTML, CSS, JS, модули)",
         projects: [
