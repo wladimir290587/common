@@ -1,5 +1,18 @@
 export const dataSections = [
     {
+        paragraph: "Проекты React",
+        projects: [
+            {
+                name: "Блокнот",
+                href: "https://wladimir290587.github.io/notepad-react/"
+            },
+                   {
+                name: "Чек-лист",
+                href: "https://wladimir290587.github.io/checklist-react/"
+            },
+        ]
+    },
+    {
         paragraph: "Проекты (JS, ООП, сборка WebPack, сборка Vite)",
         projects: [
             {
